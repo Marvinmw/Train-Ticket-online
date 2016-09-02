@@ -1,0 +1,9 @@
+# 
+*.o
+*.swp
+*.out
+# c-tags
+tags
+
+# ignore db files
+*.db
